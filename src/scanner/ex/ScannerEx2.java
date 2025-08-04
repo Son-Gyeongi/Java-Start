@@ -2,6 +2,7 @@ package scanner.ex;
 
 import java.util.Scanner;
 
+// 홀수 짝수
 public class ScannerEx2 {
 
     public static void main(String[] args) {

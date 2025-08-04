@@ -2,6 +2,7 @@ package scanner.ex;
 
 import java.util.Scanner;
 
+// 음식점 주문
 public class ScannerEx3 {
 
     public static void main(String[] args) {

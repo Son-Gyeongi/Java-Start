@@ -2,6 +2,7 @@ package scanner.ex;
 
 import java.util.Scanner;
 
+// 구구단 출력
 public class ScannerEx4 {
 
     public static void main(String[] args) {

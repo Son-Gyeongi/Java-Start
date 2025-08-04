@@ -2,6 +2,7 @@ package scanner.ex;
 
 import java.util.Scanner;
 
+// 이름 나이 입력받고 출력하기
 public class ScannerEx1_My {
 
     public static void main(String[] args) {
