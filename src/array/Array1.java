@@ -8,7 +8,6 @@ public class Array1 {
         int student3 = 70;
         int student4 = 60;
         int student5 = 50;
-        int student6 = 40;
 
 /*
         for (int i = 1; i <= 6; i++) {
@@ -21,6 +20,5 @@ public class Array1 {
         System.out.println("학생3 점수: " + student3);
         System.out.println("학생4 점수: " + student4);
         System.out.println("학생5 점수: " + student5);
-        System.out.println("학생6 점수: " + student6);
     }
 }
